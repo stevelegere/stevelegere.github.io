@@ -1,11 +1,9 @@
 ---
-title: Hello Lab
+title: Hello, Lab!
 date: 2024-04-19 15:00:00 -0400
 categories: [news]
 tags: [lab,website,blog,setup]
 ---
-
-# Hello, Lab!
 
 Hey there, fellow cybersecurity enthusiasts! 👋
 
