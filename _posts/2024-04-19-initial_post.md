@@ -1,8 +1,8 @@
 ---
-title: Hello, Lab!
-date: 2024-04-19 12:00:00 -400
-categories: [news, blog]
-tags: [lab, website, blog, setup]
+title: Hello Lab
+date: 2024-04-19 15:00:00 -0400
+categories: [news]
+tags: [lab,website,blog,setup]
 ---
 
 # Hello, Lab!
