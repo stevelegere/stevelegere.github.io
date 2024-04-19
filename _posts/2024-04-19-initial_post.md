@@ -36,4 +36,5 @@ I'm a huge fan of [Immersive Labs](https://www.immersivelabs.com/) and will like
 ### Let's Learn Together
 I believe in the power of continuous learning, which is why I'm committed to sharing my experiences and insights with you. Whether you're a seasoned professional or just starting out, there's always something new to discover in the world of cybersecurity. Join me on this exciting journey, and together, let's unlock the mysteries of cyberspace and empower ourselves with knowledge.
 
-Happy hacking!
+<link rel="stylesheet" href="../assets/css/matrix.css">
+<span class="hero glitch layers" data-text="> happy hacking!" style="color: #008000; font-size: 13px;">> happy hacking!</span>
